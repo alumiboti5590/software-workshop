@@ -26,6 +26,12 @@ For info on *Git* and *GitHub* please see [my tutorial][7].
 
 We will spend the next bit looking through the code for the [Prototype project][6]. Most of this code is directly from the past two year's robots, minus some commenting down for the purpose of knowing what is happening.
 
+## Before Kickoff
+
+1. Be super familiar with all the packages and files in the [prototype project][6], and try to understand what most of the code actually does.
+2. Go through the [WPI Screensteps][1] a bit, and learn about how to do some basic tasks like the Java basics, using sensors/actuators (like Talon speed controllers and Gyros), and especially **Command Based Programming**.
+3. If time allows it, look into [Vision Processing][8]. We want to have a kickass autonomous, and having vision processing is the only way we'll achieve it! 
+
 
 [1]: https://wpilib.screenstepslive.com/s/4485/m/13809
 [2]: https://eclipse.org/downloads/
@@ -34,3 +40,4 @@ We will spend the next bit looking through the code for the [Prototype project][
 [5]: https://git-scm.com/download/win
 [6]: https://github.com/sjcirobotics/prototype
 [7]: https://github.com/sjcirobotics/git-started-with-git
+[8]: https://wpilib.screenstepslive.com/s/4485/m/24194
