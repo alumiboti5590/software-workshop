@@ -27,7 +27,7 @@ For info on *Git* and *GitHub* please see [my tutorial][7].
 We will spend the next bit looking through the code for the [Prototype project][6]. Most of this code is directly from the past two year's robots, minus some commenting down for the purpose of knowing what is happening.
 
 
-[1]: https://wpilib.screenstepslive.com/s/4485
+[1]: https://wpilib.screenstepslive.com/s/4485/m/13809
 [2]: https://eclipse.org/downloads/
 [3]: https://wpilib.screenstepslive.com/s/4485/m/13503/l/599679-installing-eclipse-c-java
 [4]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
