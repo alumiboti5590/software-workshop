@@ -22,6 +22,10 @@ I highly suggest using a Windows computer, since that's the only environment tha
 
 For info on *Git* and *GitHub* please see [my tutorial][7].
 
+## Look Over 'Prototype' Code
+
+We will spend the next bit looking through the code for the [Prototype project][6]. Most of this code is directly from the past two year's robots, minus some commenting down for the purpose of knowing what is happening.
+
 
 [1]: https://wpilib.screenstepslive.com/s/4485
 [2]: https://eclipse.org/downloads/
