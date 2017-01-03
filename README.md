@@ -18,9 +18,15 @@ Follow [the WPI steps][3] to finish installing the **FIRST WPI Java tools** and 
 We will do all of our work in Eclipse, including writing the code, testing the code, and deploying it to the *RoboRio*. You should create a new project and mess around with *Eclipse* and Java, especially if you are new to the environment or the programming language.
 
 ### Install Git and Using it
+I highly suggest using a Windows computer, since that's the only environment that all of the *FIRST* tools and code works well on. To install *git* on your computer, visit [https://git-scm.com/download/win][5] for the download package, and run it. We will need to **clone** our [prototype project][6] to our computers so that we can keep building and working on it. It will become our 2017 robot.
+
+For info on *Git* and *GitHub* please see [my tutorial][7].
 
 
 [1]: https://wpilib.screenstepslive.com/s/4485
 [2]: https://eclipse.org/downloads/
 [3]: https://wpilib.screenstepslive.com/s/4485/m/13503/l/599679-installing-eclipse-c-java
 [4]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
+[5]: https://git-scm.com/download/win
+[6]: https://github.com/sjcirobotics/prototype
+[7]: https://github.com/sjcirobotics/git-started-with-git
